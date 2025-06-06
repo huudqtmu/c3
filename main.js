@@ -1,0 +1,3 @@
+function thongbao(){
+    alert('acb');
+}
